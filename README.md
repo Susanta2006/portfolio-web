@@ -31,7 +31,7 @@ Clone the repository
 bash
 Copy
 Edit
-git clone https://github.com/your-username/your-portfolio.git
+git clone https://github.com/Susanta2006/portfolio-web.git
 Open index.html in your browser
 
 Customize content in index.html, style.css, and script.js
